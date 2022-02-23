@@ -1,0 +1,22 @@
+{
+  "name": "count-element",
+  "version": "1.0.0",
+  "description": "count every element from an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu814/count-element.git"
+  },
+  "keywords": [
+    "count-element"
+  ],
+  "author": "Ashutosh Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu814/count-element/issues"
+  },
+  "homepage": "https://github.com/ashu814/count-element#readme"
+}
